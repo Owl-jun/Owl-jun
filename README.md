@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-#### > 현재 진행중 프로젝트 : [미니프로젝트:고성능주소록](https://github.com/Owl-jun/IoT_CS_Study/tree/main/miniProject_addressbook)
-##### > 이전 프로젝트 : [미니프로젝트:윷놀이게임](https://github.com/Owl-jun/project-pygame-yutnori)
-##### > 토이 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/toyprojects)    |||   CS 관련 스터디 : [리포지토리](https://github.com/Owl-jun/IoT_CS_Study)
+### > 현재 진행중 프로젝트 : [미니프로젝트:고성능주소록](https://github.com/Owl-jun/IoT_CS_Study/tree/main/miniProject_addressbook)
+#### > 이전 프로젝트 : [미니프로젝트:윷놀이게임](https://github.com/Owl-jun/project-pygame-yutnori)
+|토이 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/toyprojects)|   CS 관련 스터디 : [리포지토리](https://github.com/Owl-jun/IoT_CS_Study)|
+|:--:|:--:|
 ##### > coming soon ... ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Game](https://img.shields.io/badge/Game_Development-4B8BBE?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical)
