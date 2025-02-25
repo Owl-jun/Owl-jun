@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### > 이전 프로젝트 : [미니프로젝트:윷놀이게임](https://github.com/Owl-jun/project-pygame-yutnori)
 |토이 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/toyprojects)|   CS 관련 스터디 : [리포지토리](https://github.com/Owl-jun/IoT_CS_Study)|
 |:--:|:--:|
-##### > coming soon ... ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Game](https://img.shields.io/badge/Game_Development-4B8BBE?style=for-the-badge&logo=unrealengine&logoColor=white)
+##### > this is queue ... ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Game](https://img.shields.io/badge/Game_Development-4B8BBE?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Owl-jun&theme=github-compact)
