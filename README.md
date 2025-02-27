@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### > 현재 진행중 프로젝트 : [Flask/sqlite3 활용 서버-클라이언트 첫경험]((https://github.com/Owl-jun/Server_Clients_Practice))
+### > 현재 진행중 프로젝트 : [Flask/sqlite3 활용 서버-클라이언트 첫경험](https://github.com/Owl-jun/Server_Clients_Practice)
 #### > 이전 프로젝트 : [미니프로젝트:윷놀이게임](https://github.com/Owl-jun/project-pygame-yutnori)
 |토이 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/toyprojects)|   CS 관련 스터디 : [리포지토리](https://github.com/Owl-jun/IoT_CS_Study)|
 |:--:|:--:|
