@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### > 현재 진행중 프로젝트 : [Flask/socketio 활용 두근두근 서버-클라이언트 첫경험](https://github.com/Owl-jun/Server_Clients_Practice)
 #### > 이전 프로젝트 : [미니프로젝트:윷놀이게임](https://github.com/Owl-jun/project-pygame-yutnori)
-|토이 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/toyprojects)|   CS 관련 스터디 : [리포지토리](https://github.com/Owl-jun/IoT_CS_Study)|
-|:--:|:--:|
+|토이 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/toyprojects)|미니 프로젝트 모음집 : [리포지토리](https://github.com/Owl-jun/mini_projects)|CS 관련 스터디 : [리포지토리](https://github.com/Owl-jun/IoT_CS_Study)|
+|:--:|:--:|:--:|
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical) 
