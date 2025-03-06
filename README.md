@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 |![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=raspberrypi&logoColor=white)  |
 |![Game](https://img.shields.io/badge/Game_Development-4B8BBE?style=for-the-badge&logo=unrealengine&logoColor=white)|
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Owl-jun&theme=github-compact)
+
+![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg)
