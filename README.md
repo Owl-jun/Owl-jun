@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### > 현재 진행중 : 
 ##### > 현재 진행중 (이었던것) : [조 미니프로젝트](https://github.com/Owl-jun/project_pkmbattle)
