@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### > 현재 진행중 : 
+### > 현재 진행중 : [우분투 리눅스 맛보기](https://github.com/Owl-jun/ubuntu)
 ##### > 현재 진행중 (이었던것) : [조 미니프로젝트](https://github.com/Owl-jun/project_pkmbattle)
 |토이 프로젝트[모음집](https://github.com/Owl-jun/toyprojects)|미니 프로젝트[모음집](https://github.com/Owl-jun/mini_projects)|CS 관련[스터디](https://github.com/Owl-jun/IoT_CS_Study)|
 |:--:|:--:|:--:|
