@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical) 
 
-|STACK TOP -> ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu&logoColor=white)|
+|STACK TOP -> Ubuntu Linux|
 |:--:|
-|![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=raspberrypi&logoColor=white)  |
-|![Game](https://img.shields.io/badge/Game_Development-4B8BBE?style=for-the-badge&logo=unrealengine&logoColor=white)|
+|SQLD|
+|OPIC|
+|SERVER DEVELOPER|
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Owl-jun&theme=github-compact)
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
