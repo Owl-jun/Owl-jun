@@ -17,6 +17,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=rect&height=270&color=gradient&text=Jun's%20Dev%20Repo&reversal=false&textBg=false&fontColor=90afb0&fontSize=42&fontAlign=50&fontAlignY=58&animation=twinkling&rotate=10&desc=Server&descSize=25&descAlignY=45&descAlign=48&section=header"/>
   </a>
 </p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
