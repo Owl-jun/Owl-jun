@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Owl-jun&utm_content=farm">
 <img
@@ -35,13 +35,6 @@ Here are some ideas to get you started:
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
 
-
-  
-
-
-
-
-</div>
 
 |STACK TOP -> SERVER Architecture|
 |:--:|
