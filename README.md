@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 #### > 토이 프로젝트.[ZIP](https://github.com/Owl-jun/toyprojects)
 #### > 미니 프로젝트.[ZIP](https://github.com/Owl-jun/mini_projects)
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
 
 ---
 #### LANGUAGE
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
 ---
 #### 떼끄놀로지아
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
