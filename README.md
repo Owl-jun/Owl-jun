@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,8 +38,6 @@ Here are some ideas to get you started:
 |토이 프로젝트[모음집](https://github.com/Owl-jun/toyprojects)|미니 프로젝트[모음집](https://github.com/Owl-jun/mini_projects)|CS 관련[스터디](https://github.com/Owl-jun/IoT_CS_Study)|
 |:--:|:--:|:--:|
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&layout=compact&theme=tokyonight) 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
 
 </div>
 
