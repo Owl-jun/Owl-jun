@@ -1,3 +1,4 @@
+# 서버개발자(진)
 <!--
 **Owl-jun/Owl-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,8 +24,8 @@ Here are some ideas to get you started:
 </a>
 
 ### > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/Owl-jun/mini_projects/tree/main/asyncProject)
-#### > 토이 프로젝트.[ZIP](https://github.com/Owl-jun/toyprojects)
-#### > 미니 프로젝트.[ZIP](https://github.com/Owl-jun/mini_projects)
+#### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
+#### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
 
 
 ---
@@ -40,12 +41,6 @@ Here are some ideas to get you started:
 ---
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
-
-|STACK TOP -> SERVER Architecture|
-|:--:|
-|SQLD|
-|OPIC|
-|SERVER DEVELOPER|
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
 <!-- ![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg) -->
