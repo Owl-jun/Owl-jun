@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Owl-jun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Owl-jun"
+  width="600"
+  height="300"
+/>
+</a>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
