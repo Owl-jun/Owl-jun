@@ -1,4 +1,4 @@
-## 오리팝니다🦆🐤🐣
+## Duck..Duck?🦆🐤🐣!!
 <!--
 **Owl-jun/Owl-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
