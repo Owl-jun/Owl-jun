@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-
-## > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/Owl-jun/mini_projects/tree/main/asyncProject)
-### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
-#### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
-
+---
+### > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/Owl-jun/mini_projects/tree/main/asyncProject)
+#### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
+##### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
+---
 
 ---
 #### LANGUAGE
