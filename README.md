@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 </div>
 
 ### > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/Owl-jun/mini_projects/tree/main/asyncProject)
@@ -32,8 +34,10 @@ Here are some ideas to get you started:
 |:--:|:--:|:--:|
 
 <div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical) 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact"/>
+
 </div>
 
 |STACK TOP -> SERVER Architecture|
