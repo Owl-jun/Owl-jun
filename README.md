@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align='center'>
   <a href="https://github.com/Owl-jun">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=270&color=gradient&text=Jun's%20Dev%20Repo&reversal=false&textBg=false&fontColor=90afb0&fontSize=42&fontAlign=50&fontAlignY=58&animation=twinkling&rotate=10&desc=Server&descSize=25&descAlignY=45&descAlign=48&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SERVER&desc=developer&descAlignY=63&fontAlign=50&fontAlignY=48" />
   </a>
 </p>
 
