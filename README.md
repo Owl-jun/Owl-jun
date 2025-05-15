@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   src="https://render.gitanimals.org/farms/Owl-jun"
   width="600"
   height="300"
+  background="black"
 />
 </a>
 
