@@ -12,12 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
-  <a href="https://github.com/Owl-jun">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SERVER&desc=developer&descAlignY=63&fontAlign=50&fontAlignY=48" />
-  </a>
-</p>
-
 <div align="center">
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Owl-jun&utm_content=farm">
