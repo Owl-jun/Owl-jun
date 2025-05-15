@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 |토이 프로젝트[모음집](https://github.com/Owl-jun/toyprojects)|미니 프로젝트[모음집](https://github.com/Owl-jun/mini_projects)|CS 관련[스터디](https://github.com/Owl-jun/IoT_CS_Study)|
 |:--:|:--:|:--:|
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical) 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact&cache_seconds=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&layout=compact&theme=tokyonight) 
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
 
 </div>
 
