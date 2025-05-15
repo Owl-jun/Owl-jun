@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-</div>
 
 ### > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/Owl-jun/mini_projects/tree/main/asyncProject)
 ##### > 현재 진행중 (이었던것) : [조 미니프로젝트](https://github.com/Owl-jun/project_pkmbattle)
 
-<div align="center">
   
 |토이 프로젝트[모음집](https://github.com/Owl-jun/toyprojects)|미니 프로젝트[모음집](https://github.com/Owl-jun/mini_projects)|CS 관련[스터디](https://github.com/Owl-jun/IoT_CS_Study)|
 |:--:|:--:|:--:|
