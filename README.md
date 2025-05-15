@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 |:--:|:--:|:--:|
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owl-jun&show_icons=true&theme=radical) 
-![Language]("https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact")
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact)
 
 </div>
 
