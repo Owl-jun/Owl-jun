@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
-## CS
+## CS 탑재
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ---
