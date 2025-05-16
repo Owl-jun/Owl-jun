@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ## SKILLS
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
----
-## S...Science!
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ---
