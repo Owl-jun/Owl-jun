@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 </a>
 
 ---
-## PROJECTS
+# PROJECTS
 
-### > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/2025-IoT-GOATs/Async_Server_temp01)
-#### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
-##### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
-##### > [CS공부기록](https://github.com/Owl-jun/Computer-is-science)
+## > 현재 진행중 : [비동기 스레드풀 서버 구축](https://github.com/2025-IoT-GOATs/Async_Server_temp01)
+### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
+#### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
+#### > [CS공부기록](https://github.com/Owl-jun/Computer-is-science)
 
 ---
 ## LANGUAGE
