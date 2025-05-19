@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,6 +22,17 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+
+- 👋 Hello! I'm ...
+  - 🧑‍💻 Seokjun Kang
+  - 🎯 target field
+    - Server Engineer (🎮 Game | 🌐 IoT | ☁️ Backend) 
+- 🌱 I’m currently learning ...
+  - 🧱 Server Architecture
+  - 🖥️ Operating Systems
+- 📫 How to reach me: ...
+  - 📧 email : owljun2@gmail.com
+  - 🔗 sns : [Velog](https://velog.io/@owljun/posts)
 
 ---
 # PROJECTS
