@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - 🖥️ Operating Systems
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
-  - 🔗 sns : [Velog](https://velog.io/@owljun/posts)
+  - 📘 blog : [Velog](https://velog.io/@owljun/posts)
 
 ---
 # PROJECTS
