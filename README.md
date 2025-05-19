@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 />
 </a>
 
+---
+
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
   - 🎯 target field
