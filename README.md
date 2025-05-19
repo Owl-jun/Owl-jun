@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > 현재 진행중 : [비동기 스레드풀 범용 서버 템플릿 구축](https://github.com/Owl-jun/Server-Temp)
+## > 현재 진행중 : [비동기 스레드풀 범용 게임서버 템플릿 구축](https://github.com/Owl-jun/Server-Temp)
 ### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
 #### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
 #### > [CS공부기록](https://github.com/Owl-jun/Computer-is-science)
