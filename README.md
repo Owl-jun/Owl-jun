@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Owl-jun&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Owl-jun"
-  width="600"
-  height="300"
-/>
-</a>
 
 <a href="https://www.gitanimals.org/">
       <img
@@ -31,6 +24,14 @@ Here are some ideas to get you started:
         alt="gitanimals"
       />
     </a>
+    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Owl-jun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Owl-jun"
+  width="600"
+  height="300"
+/>
+</a>
 
 ---
 
