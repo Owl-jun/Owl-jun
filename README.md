@@ -40,8 +40,13 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > 현재 진행중 : [비동기 스레드풀 범용 게임서버 템플릿 구축](https://github.com/Owl-jun/Server-Temp) (영혼을 갈아넣는중)
-### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
+## > [Asio 비동기 스레드풀 구조의 TCP 서버 템플릿 구축](https://github.com/Owl-jun/Server-Temp)
+## > [SFML 커스터마이징을 통한 멀티플레이 지원 게임 클라이언트 구축](https://github.com/Owl-jun/project_pkmbattle)
+---
+
+## LEARNING
+
+#### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
 #### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
 #### > [CS공부기록](https://github.com/Owl-jun/Computer-is-science)
 
