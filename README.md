@@ -32,7 +32,8 @@ Here are some ideas to get you started:
     - Server Engineer (🎮 Game | 🌐 IoT | ☁️ Backend) 
 - 🌱 I’m currently learning ...
   - 🧱 Server Architecture
-  - 🖥️ Operating Systems
+  - 🖥️ [Operating Systems](https://github.com/Owl-jun/Computer-is-science/blob/main/OperatinSystem/OS_StudyNote.md)
+  - 👯 [Socket Programming](https://velog.io/@owljun/series/%EC%86%8C%EC%BC%93%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
   - 📘 blog : [Velog](https://velog.io/@owljun/posts)
