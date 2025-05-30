@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 # PROJECTS
 
 ## > [WinSock 기반 IOCP 유틸 정적 라이브러리 "hiocp" 구축](https://github.com/Owl-jun/project_hiocp)
-## > [Asio 비동기 스레드풀 구조의 TCP 서버 템플릿 구축](https://github.com/Owl-jun/Server-Temp)
-## > [SFML 커스터마이징을 통한 멀티플레이 지원 게임 클라이언트 구축](https://github.com/Owl-jun/project_pkmbattle)
+## > [Asio 비동기 스레드풀 서버 아키텍쳐](https://github.com/Owl-jun/Server-Temp)
+## > [SFML 커스터마이징을 통한 멀티플레이 게임 클라이언트 구축](https://github.com/Owl-jun/project_pkmbattle)
 ---
 
 ## LEARNING
