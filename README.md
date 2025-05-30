@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > [WinSock 기반 IOCP 유틸 정적 라이브러리 "hiocp" 구축](https://github.com/Owl-jun/project_hiocp)
+## > [WinSock IOCP 채팅서버](https://github.com/Owl-jun/project_hiocp)
 ## > [Asio 비동기 스레드풀 서버 아키텍쳐](https://github.com/Owl-jun/Server-Temp)
 ## > [SFML 커스터마이징을 통한 멀티플레이 게임 클라이언트 구축](https://github.com/Owl-jun/project_pkmbattle)
 ---
