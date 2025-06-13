@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 />
 </a>
 
-### [혹시 명건쌤 이신가요? 클릭](https://github.com/Owl-jun/iot-webapp-2025) ~Are you prince sung?~
-
 ---
 
 - 👋 Hello! I'm ...
@@ -60,13 +58,24 @@ Here are some ideas to get you started:
 ---
 ## LANGUAGE
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
-## SKILLS
+## SKILLS & KNOWLEDGE
+![Server](https://img.shields.io/badge/Server-450ca0?style=for-the-badge&logo=building&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-031a3c?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-106010?style=for-the-badge&logo=swagger&logoColor=white)
+![ASIO](https://img.shields.io/badge/ASIO-7418A1?style=for-the-badge)
+![IOCP](https://img.shields.io/badge/IOCP-0f0fc0?style=for-the-badge&logo=windows&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-501010?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3776BB?style=for-the-badge&logo=docker&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=networkx&logoColor=white)
+![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=network&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ---
 
