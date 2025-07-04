@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > [멀티 채널 서버 구조, Room 매치 시스템](https://github.com/Owl-jun/2025-Server-ChannelSystem)
+## > [하트비트 기반 서버 아키텍쳐 (멀티 채널, 게임 룸, 재접속 복구 기능)](https://github.com/Owl-jun/2025-Server-ChannelSystem)
 ## > [분산형 게임서버 연동 : Unity + REST API(ASP.NET Core) + IOCP TCP Server(Asio & WinSock)](https://github.com/Owl-jun/GaemServerKit)
 ## > [Asio TCP 서버와 , SFML 커스터마이징을 통한 멀티플레이 게임 구축](https://github.com/Owl-jun/project_pkmbattle)
 ---
