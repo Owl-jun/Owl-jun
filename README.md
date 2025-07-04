@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 # PROJECTS
 
 ## > [분산형 게임서버 연동 : Unity + REST API(ASP.NET Core) + IOCP TCP Server(Asio & WinSock)](https://github.com/Owl-jun/GaemServerKit)
-## > [REST API SERVER: For Game](https://github.com/Owl-jun/REST_API_Server)
-## > [WinSock IOCP SERVER: For Chat](https://github.com/Owl-jun/project_hiocp)
-## > [Asio Async SERVER: For Gameplay Backend](https://github.com/Owl-jun/Server-Temp)
 
 ## > [SFML 커스터마이징을 통한 멀티플레이 게임 클라이언트 구축](https://github.com/Owl-jun/project_pkmbattle)
 ---
