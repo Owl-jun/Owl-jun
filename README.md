@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > [Win32API 학습](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
+## > [Win32API 부수기](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
 ## > [Asio 기반 PvE 보스레이드 서버 아키텍처 – FSM 전투 시스템과 재접속 복구 구현](https://github.com/Owl-jun/2025-GameProject-BossRaid) (일시중단)
 ## > [분산형 게임 서버 아키텍쳐 (테스트클라(unity), 게임서버, 채팅서버, 로그인서버)](https://github.com/Owl-jun/GaemServerKit)
 ## > [Asio TCP 서버와 , SFML 커스터마이징을 통한 멀티플레이 게임 구축](https://github.com/Owl-jun/project_pkmbattle)
