@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
   - 🎯 target field
-    - Server Engineer (🎮 Game | 🌐 IoT | ☁️ Backend) 
+    - 🌐 IoT | 🎮 Game 
 - 🌱 I’m currently learning ...
-  - 🧱 Server Architecture
-  - 🖥️ [Operating Systems](https://github.com/Owl-jun/Computer-is-science/blob/main/OperatinSystem/OS_StudyNote.md)
-  - 👯 [Socket Programming](https://velog.io/@owljun/series/%EC%86%8C%EC%BC%93%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+  - 🧱 Embedded S/W
+  - 🖥️ [Win32API](https://github.com/Owl-jun/Computer-is-science/blob/main/OperatinSystem/OS_StudyNote.md)
+  - 👯 Kernel Driver
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
   - 📘 blog : [Velog](https://velog.io/@owljun/posts)
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
+## > [CarWindow_System](https://github.com/Owl-jun/Proj2025_Car_Window_System)(진행중)
 ## > [Win32API 부수기](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
-## > [Asio 기반 PvE 보스레이드 서버 아키텍처 – FSM 전투 시스템과 재접속 복구 구현](https://github.com/Owl-jun/2025-GameProject-BossRaid) (일시중단)
-## > [분산형 게임 서버 아키텍쳐 (테스트클라(unity), 게임서버, 채팅서버, 로그인서버)](https://github.com/Owl-jun/GaemServerKit)
-## > [Asio TCP 서버와 , SFML 커스터마이징을 통한 멀티플레이 게임 구축](https://github.com/Owl-jun/project_pkmbattle)
+## > [분산형 서버 아키텍쳐 (Unity | WinSock IOCP | REST API | Redis)](https://github.com/Owl-jun/GaemServerKit)
+## > [SFML Minimal Game Engine](https://github.com/Owl-jun/project_pkmbattle)
 ---
 
 ## LEARNING
