@@ -62,11 +62,15 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 ## SKILLS & KNOWLEDGE
-![Server](https://img.shields.io/badge/Server-450ca0?style=for-the-badge&logo=building&logoColor=white)
+![Win32API](https://img.shields.io/badge/Win32API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IOCP](https://img.shields.io/badge/IOCP-0f0fc0?style=for-the-badge&logo=windows&logoColor=white)
+![ASIO](https://img.shields.io/badge/ASIO-7418A1?style=for-the-badge)
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET-031a3c?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-106010?style=for-the-badge&logo=swagger&logoColor=white)
-![ASIO](https://img.shields.io/badge/ASIO-7418A1?style=for-the-badge)
-![IOCP](https://img.shields.io/badge/IOCP-0f0fc0?style=for-the-badge&logo=windows&logoColor=white)
+
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-501010?style=for-the-badge&logo=redis&logoColor=white)
@@ -76,7 +80,7 @@ Here are some ideas to get you started:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=network&logoColor=white)
-![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ---
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025,IoT_CS_Study,iot-webapp-2025&v=3)
