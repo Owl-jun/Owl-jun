@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=network&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-000000?style=for-the-badge&logo=linux&logoColor=white)
 ---
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025,IoT_CS_Study,iot-webapp-2025&v=3)
