@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > [IoT + 전장 시스템 통합형 실시간 제어 시스템](https://github.com/Owl-jun/Proj2025_Car_Window_System)(진행중)
-## > [Win32API 부수기](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
-## > [분산형 서버 아키텍쳐 (Unity | WinSock IOCP | REST API | Redis)](https://github.com/Owl-jun/GaemServerKit)
+## > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)(진행중)
+## > [Win32API - GameEngine](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
+## > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 시스템](https://github.com/Owl-jun/GaemServerKit)
 ## > [SFML Minimal Game Engine](https://github.com/Owl-jun/project_pkmbattle)
 ---
 
