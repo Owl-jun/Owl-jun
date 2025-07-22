@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ---
 # PROJECTS
 
-## > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)(진행중)
+## > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
 - Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
 ## > [Win32API - GameEngine](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
 - Win32 메시지 루프 + GDI 렌더링 기반 2D 엔진
