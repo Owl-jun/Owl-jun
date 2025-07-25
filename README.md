@@ -40,21 +40,20 @@ Here are some ideas to get you started:
   - 📘 **blog** : [Velog](https://velog.io/@owljun/posts)
 
 ---
-# PROJECTS
-
-## > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
-- Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
-## > [Win32API - GameEngine](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
-- Win32 메시지 루프 + GDI 렌더링 기반 2D 엔진
-## > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 시스템](https://github.com/Owl-jun/GaemServerKit)
-- WinSock IOCP + Asio + Redis 기반 비동기 분산 서버 설계 , TCP/REST API, JWT 인증 , Redis Pub/Sub , Unity | C++ 연동
-## > [SFML Minimal Game Engine](https://github.com/Owl-jun/project_pkmbattle)
-- 씬 매니저 & 이벤트 기반 멀티플레이 게임 엔진 구현
----
-
 ## LEARNING
 
-#### > [공부기록](https://github.com/Owl-jun/Computer-is-science)
+### > [전공자를 넘어서기 위한 노력들](https://github.com/Owl-jun/Computer-is-science)
+---
+
+## PROJECTS
+### > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
+- Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
+### > [Win32API - GameEngine](https://github.com/Owl-jun/Win32-API-Practice) (진행중)
+- Win32 메시지 루프 + GDI 렌더링 기반 2D 엔진
+### > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 시스템](https://github.com/Owl-jun/GaemServerKit)
+- WinSock IOCP + Asio + Redis 기반 비동기 분산 서버 설계 , TCP/REST API, JWT 인증 , Redis Pub/Sub , Unity | C++ 연동
+### > [SFML Minimal Game Engine](https://github.com/Owl-jun/project_pkmbattle)
+- 씬 매니저 & 이벤트 기반 멀티플레이 게임 엔진 구현
 
 ---
 ## LANGUAGE
