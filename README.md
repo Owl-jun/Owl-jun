@@ -30,15 +30,14 @@ Here are some ideas to get you started:
 
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
-  - 🎯 target field
-    - 🌐 IoT | 🎮 Game 
+  - 🌐 Embedded S/W Developer
 - 🌱 I’m currently learning ...
-  - 🧱 Embedded S/W
-  - 🖥️ [Win32API](https://github.com/Owl-jun/Computer-is-science/blob/main/OperatinSystem/OS_StudyNote.md)
-  - 👯 Kernel Driver
+  - 🧱 H/W Communication (CAN , I2C)
+  - 🖥️ RTOS (freeRTOS)
+  - 👯 Circuit theory
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
-  - 📘 blog : [Velog](https://velog.io/@owljun/posts)
+  - 📘 **blog** : [Velog](https://velog.io/@owljun/posts)
 
 ---
 # PROJECTS
@@ -55,8 +54,6 @@ Here are some ideas to get you started:
 
 ## LEARNING
 
-#### > [미니 프로젝트.zip](https://github.com/Owl-jun/mini_projects)
-#### > [토이 프로젝트.zip](https://github.com/Owl-jun/toyprojects)
 #### > [공부기록](https://github.com/Owl-jun/Computer-is-science)
 
 ---
