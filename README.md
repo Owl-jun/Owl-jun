@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 ## PROJECTS
 
-
+### > [다기능 센서 데이터 로거 및 제어 시스템](https://github.com/Owl-jun/2025-STM32-SensorControl) (진행중)
+- STM32F103 보드 활용 UART , I2C , SPI + freeRTOS 구현 프로젝트 (HAL -> LL 리팩토링)
 ### > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
 - Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
 ### > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 시스템](https://github.com/Owl-jun/GaemServerKit)
