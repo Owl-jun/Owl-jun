@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 ### > [전공자를 넘어서기 위한 노력들](https://github.com/Owl-jun/Computer-is-science)
 ---
 
-## PROJECTS
-
 ## 팀프로젝트
 
 ### > [전장 S/W 시스템 - 차량 제어](https://github.com/ProjectKHSJ-EmbeddedVehicleSystem/Project_2025Vehicle_System)
