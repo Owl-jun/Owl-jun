@@ -47,14 +47,26 @@ Here are some ideas to get you started:
 
 ## PROJECTS
 
-### > [다기능 센서 데이터 로거 및 제어 시스템](https://github.com/Owl-jun/2025-STM32-SensorControl) (진행중)
-- STM32F103 보드 활용 UART , I2C , SPI + freeRTOS 구현 프로젝트 (HAL -> LL 리팩토링)
-### > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
-- Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
-### > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 시스템](https://github.com/Owl-jun/GaemServerKit)
-- WinSock IOCP + Asio + Redis 기반 비동기 분산 서버 설계 , TCP/REST API, JWT 인증 , Redis Pub/Sub , Unity | C++ 연동
+## 팀프로젝트
+
+### > [전장 S/W 시스템 - 차량 제어](https://github.com/ProjectKHSJ-EmbeddedVehicleSystem/Project_2025Vehicle_System)
+- CAN 버스 & RTOS를 통한 우선순위 기반 Task 실행 및 ECU 분산 모듈 통합 프로젝트
+
 ### > [SFML Minimal Game Engine](https://github.com/Owl-jun/project_pkmbattle)
 - 씬 매니저 & 이벤트 기반 멀티플레이 게임 엔진 구현
+
+---
+
+## 개인프로젝트
+
+### > [다기능 센서 데이터 로거 및 제어 시스템](https://github.com/Owl-jun/2025-STM32-SensorControl) (진행중)
+- STM32F103 보드 활용 UART , I2C , SPI + freeRTOS 구현 프로젝트 (HAL -> LL 리팩토링)
+
+### > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
+- Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
+ 
+### > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 아키텍쳐](https://github.com/Owl-jun/GaemServerKit)
+- WinSock IOCP + Asio + Redis 기반 비동기 분산 서버 설계 , TCP/REST API, JWT 인증 , Redis Pub/Sub , Unity | C++ 연동
 
 ---
 ## LANGUAGE
