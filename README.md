@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - STM32F103 보드 활용 UART , I2C , SPI + freeRTOS 구현 프로젝트 (HAL -> LL 리팩토링)
 
 ### > [IoT + 전장 시스템 통합형 실시간 제어 - CarWindowSystem](https://github.com/Owl-jun/Proj2025_Car_Window_System)
-- Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 스텝모터 제어 + Qt GUI
+- Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 서보모터 제어 + Qt GUI
  
 ### > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 아키텍쳐](https://github.com/Owl-jun/GaemServerKit)
 - WinSock IOCP + Asio + Redis 기반 비동기 분산 서버 설계 , TCP/REST API, JWT 인증 , Redis Pub/Sub , Unity | C++ 연동
