@@ -1,5 +1,5 @@
-**How many duck? 🦆🐤🐣!!**
 <!--
+**How many duck? 🦆🐤🐣!!**
 **Owl-jun/Owl-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
     
@@ -24,9 +23,8 @@ Here are some ideas to get you started:
 />
 </a>
 
+-->
 <!-- ## [성쌤의 채점버튼](https://github.com/Owl-jun/iot-webapp-2025) -->
-
----
 
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
