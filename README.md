@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 팀프로젝트
 
-### > [전장 S/W 시스템 - 차량 제어](https://github.com/ProjectKHSJ-EmbeddedVehicleSystem/Project_2025Vehicle_System)
+### > [전장 S/W 시스템 - 차량 제어](https://github.com/ProjectKHSJ-EmbeddedVehicleSystem/Project_2025Vehicle_System) (진행중)
 - CAN 버스 & RTOS를 통한 우선순위 기반 Task 실행 및 ECU 분산 모듈 통합 프로젝트
 
 ### > [SFML Minimal Game Engine](https://github.com/Owl-jun/project_pkmbattle)
