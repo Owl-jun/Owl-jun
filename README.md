@@ -38,8 +38,9 @@ Here are some ideas to get you started:
   - 📘 **blog** : [Velog](https://velog.io/@owljun/posts)
 
 ---
-## LEARNING
+## WHO AM I
 
+### > [포트폴리오](https://drive.google.com/file/d/1xecw1MPN7v7f5eKjLefNQyefESAPapod/view?usp=drive_link)
 ### > [전공자를 넘어서기 위한 노력들](https://github.com/Owl-jun/Computer-is-science)
 ---
 
