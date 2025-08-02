@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - 🧑‍💻 Seokjun Kang
   - 🌐 Embedded S/W Developer
 - 🌱 I’m currently learning ...
-  - 🧱 H/W Communication (CAN , I2C)
+  - 🧱 AUTOSAR
   - 🖥️ RTOS (freeRTOS)
   - 👯 Circuit theory
 - 📫 How to reach me: ...
