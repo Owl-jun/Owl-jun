@@ -65,36 +65,6 @@ Here are some ideas to get you started:
 ### > [WinSock IOCP , Asio , Unity , Redis - 분산 서버 아키텍쳐](https://github.com/Owl-jun/GaemServerKit)
 - WinSock IOCP + Asio + Redis 기반 비동기 분산 서버 설계 , TCP/REST API, JWT 인증 , Redis Pub/Sub , Unity | C++ 연동
 
----
-## LANGUAGE
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
-## SKILLS & KNOWLEDGE
-![Win32API](https://img.shields.io/badge/Win32API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![IOCP](https://img.shields.io/badge/IOCP-0f0fc0?style=for-the-badge&logo=windows&logoColor=white)
-![ASIO](https://img.shields.io/badge/ASIO-7418A1?style=for-the-badge)
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET-031a3c?style=for-the-badge&logo=dotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-106010?style=for-the-badge&logo=swagger&logoColor=white)
-
-![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-501010?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3776BB?style=for-the-badge&logo=docker&logoColor=white)
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Network](https://img.shields.io/badge/Network-0A66C2?style=for-the-badge&logo=network&logoColor=white)
----
-
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Owl-jun&theme=tokyonight&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025,IoT_CS_Study,iot-webapp-2025&v=3)
-
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
 <!-- ![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg) -->
