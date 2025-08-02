@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ## 개인프로젝트
 
 ### > [H/W 통신 실습 및 freeRTOS 학습 프로젝트](https://github.com/Owl-jun/2025-STM32-SensorControl) (진행중)
-- STM32F103 보드 활용 UART , I2C , SPI + freeRTOS 구현 프로젝트 (HAL위주 + LL)
+- STM32F103 보드 활용 UART , I2C , SPI , CAN + freeRTOS 구현 프로젝트 (HAL위주 + LL)
 
 ### > [터치GUI S/W를 통한 모터 제어](https://github.com/Owl-jun/Proj2025_Car_Window_System)
 - Arduino 센서 기반 데이터 수집 -> Raspberry Pi MQTT 통신 -> 서보모터 제어 + Qt GUI
