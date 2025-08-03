@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## 개인프로젝트
 
-### > [H/W 통신 실습 및 freeRTOS 학습 프로젝트](https://github.com/Owl-jun/2025-STM32-SensorControl) (진행중)
+### > [H/W 통신 실습 및 freeRTOS 학습 프로젝트](https://github.com/Owl-jun/2025-STM32-SensorControl)
 - STM32 보드 기반으로 CubeIDE , CubeMX 환경과 HAL 을 활용하여 UART , I2C , SPI , CAN + freeRTOS 를 이해하고, 실습해보는 프로젝트입니다.
 
 ### > [터치GUI S/W를 통한 모터 제어](https://github.com/Owl-jun/Proj2025_Car_Window_System)
