@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
-  - 🌐 Embedded S/W Developer
+  - 🌐 Embedded S/W Researcher
 - 🌱 I’m currently learning ...
   - 🧱 AUTOSAR OS
   - 🖥️ Vector CANoe
