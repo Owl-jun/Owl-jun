@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 ---
 ## history
 
-### > RTES Embedded S/W Researcher (2025.09 ~ )
-
-## project
-
-### > tc375 기반 dds 프로토콜 참가를 위한 LwIP + FreeRTOS 포팅 및 dds api 작성
+### > RTES(RealTimeEmbeddedSystem) Company 
+- Embedded S/W Researcher (2025.09 ~ )
+- tc375 기반 dds 프로토콜 참가를 위한 LwIP + FreeRTOS 포팅 및 dds api 작성
 
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
