@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 ## history
 
 ### RTES(Real-Time Embedded System) Company (25.09 ~ )
-- Embedded S/W Researcher 
+- Embedded S/W Researcher
+    - 현대NGV : 차량 통신(CAN,Ethernet) , 차량 이더넷(SOME/IP, DoIP) 강의 조교 (2025)
     - tc375 기반 dds 도메인 참가를 위한 LwIP + FreeRTOS 포팅 및 dds api 작성 (25.09 ~ )
 
 
