@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
   - 🌐 Embedded S/W Researcher
+  - ✨ speciality : Automotive Communication System
+  - ⚡ Fun fact: My major is music compose
     
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
