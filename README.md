@@ -29,53 +29,20 @@ Here are some ideas to get you started:
 - 👋 Hello! I'm ...
   - 🧑‍💻 Seokjun Kang
   - 🌐 Embedded S/W Researcher
-- 🌱 I’m currently learning ...
-  - 🧱 AUTOSAR OS
-  - 🖥️ Vector CANoe
-  - 👯 tc375 Driver Develop
+    
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
   - 📘 **blog** : [Velog](https://velog.io/@owljun/posts)
 
 ---
-## WHO AM I
+## history
 
-### > [공부 기록](https://github.com/Owl-jun/Computer-is-science)
+### > RTES Embedded S/W Researcher (2025.09 ~ )
 
----
+## project
 
-## Ability
+### > tc375 기반 dds 프로토콜 참가를 위한 LwIP + FreeRTOS 포팅 및 dds api 작성
 
-### Languages
-- C/C++
-- C# , Python
-
-### MCU & MPU
-- STM32
-- TC375
-- Arduino
-- Raspberry PI
-
-### Tools & Skills
-- IDE & Debugger
-    - AURIX-studio
-    - UDEVisualPlatform
-    - STM32CubeIDE & CubeMX
-    - VSCode , VS
-      
-- Analysis tools
-    - Vector CANoe
-    - WireShark , PCAN-view
-      
-- Skills
-    - MqTT , TCP , UDP , SOME/IP , DoIP , UART , CAN(FD) , Ethernet ...
-    - RTOS
-
-- ETC
-    - Jira , Confluence
-    - Git , Github
-    - MS Teams
-    - Discord
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
 <!-- ![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg) -->
