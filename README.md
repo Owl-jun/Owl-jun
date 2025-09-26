@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ---
 ## history
 
-### > RTES(Real-Time Embedded System) Company (25.09 ~ )
+### RTES(Real-Time Embedded System) Company (25.09 ~ )
 - Embedded S/W Researcher 
     - tc375 기반 dds 프로토콜 참가를 위한 LwIP + FreeRTOS 포팅 및 dds api 작성 (25.09 ~ )
 
