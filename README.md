@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### RTES(Real-Time Embedded System) Company (25.09 ~ )
 - Embedded S/W Researcher
     - 현대NGV : 차량 통신(CAN,Ethernet) , 차량 이더넷(SOME/IP, DoIP) 강의 조교 (2025)
-    - tc375 기반 dds 도메인 참가를 위한 LwIP + FreeRTOS 포팅 및 dds api 작성 (25.09 ~ )
+    - AURIX tc 3xx , Tasking 툴체인 | MCU DDS(RTPS) 프로토콜 구현 (RTOS / LwIP 포팅기반) , 차량용 DDS 교육자료 및 실습 프로젝트 제작
 
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
