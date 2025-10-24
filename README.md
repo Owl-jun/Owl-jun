@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Embedded S/W Researcher
     - 현대NGV : 차량 통신(CAN,Ethernet) , 차량 이더넷(SOME/IP, DoIP) 강의 조교 (2025)
     - AURIX tc 3xx , Tasking 툴체인 | 초경량 DDS(RTPS) 프로토콜 구현 (RTOS / LwIP 포팅기반) , 차량용 DDS 교육자료 및 실습 프로젝트 제작
-    - TI AM243X , ADC(ADS127XXX) | 소음 측정 장비 펌웨어 (마이컴 드라이버 작성)
+    - TI AM243X , ADC(ADS127XXX) | 소음 측정 장비 펌웨어 (PRU, 이더넷 디바이스 드라이버 작성)
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
 <!-- ![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg) -->
