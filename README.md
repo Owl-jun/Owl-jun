@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - AUTOSAR Automotive S/W Researcher
     - EV HPCU H/W 검증용 S/W 구현
 
-### RTES(Real-Time Embedded System) Company (25.09 ~ 25.11)
+### RTES(Real-Time Embedded System) Lab (25.09 ~ 25.11)
 - Embedded S/W Researcher
     - 현대NGV : 차량 통신(CAN,Ethernet) , 차량 이더넷(SOME/IP, DoIP, DDS) 강의 조교 (2025)
     - Infinieon tc 3xx , Tasking 툴체인 | 초경량 DDS(RTPS) 프로토콜 구현 (RTOS / LwIP 포팅기반) , 차량용 DDS 교육자료 및 실습 프로젝트 제작
