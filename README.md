@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     - TI AM243X , ADC(ADS127XXX) | 소음 측정 장비 펌웨어 (PRU, 이더넷 디바이스 드라이버 작성)
 
 ### Side Project
-- SOME/IP Like Gateway 구현 [리포지토리](https://github.com/BKAELAB/BKEL_SomeIP_GateWay)
+- SOME/IP Like Protocol & Gateway System 구현 [리포지토리](https://github.com/BKAELAB/BKEL_SomeIP_GateWay)
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
 <!-- ![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg) -->
