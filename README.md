@@ -39,9 +39,14 @@ Here are some ideas to get you started:
 ---
 ## history
 
-### Quest-Global Korea (25.12 ~)
-- AUTOSAR Automotive S/W Researcher
-    - EV HPCU H/W 검증용 S/W 구현
+### Quest-Global Korea AUTOSAR Automotive S/W Researcher (25.12 ~)
+- EV HPCU H/W 검증용 S/W 구현 (25.12 ~ )
+    - MCU : Infineon TC387(Ctrl Board) , S32K144(Gate Board)
+    - CANoe Test 환경구축
+    - EEPROM 제어
+    - 3상 모터 인버터 PWM 제어
+    - PWM Input Capture (온도 측정)
+    - CAN Test 어플리케이션 구현
 
 ### RTES(Real-Time Embedded System) Lab (25.09 ~ 25.11)
 - Embedded S/W Researcher
