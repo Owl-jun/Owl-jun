@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 ### Side Project
 - SOME/IP Like Protocol & Gateway System 구현 [리포지토리](https://github.com/BKAELAB/BKEL_SomeIP_GateWay)
+- ROS2 기반 ECU Simulator [리포지토리](https://github.com/Owl-jun/sdv_platform_ws)
+- Bootloader Update Flow 검증 Simulator [리포지토리](https://github.com/Owl-jun/AtlasBootX)
 
 ![snake gif](https://github.com/Owl-jun/Owl-jun/blob/output/github-snake.svg)
 <!-- ![Snake animation](https://Owl-jun.github.io/my-snake-animation/snake.svg) -->
