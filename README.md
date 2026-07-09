@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     
 - 📫 How to reach me: ...
   - 📧 email : owljun2@gmail.com
-  - 📘 **blog** : [Velog](https://velog.io/@owljun/posts)
+  - 📘 **blog** : [Blog](https://blog.naver.com/beatspermymind)
 
 ---
 ## history
