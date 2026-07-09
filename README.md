@@ -55,6 +55,7 @@ Here are some ideas to get you started:
     - TI AM243X , ADC(ADS127XXX) | 소음 측정 장비 펌웨어 (PRU, 이더넷 디바이스 드라이버 작성)
 
 ### Side Project
+- UDS Simulator (Yocto) [리포지토리](https://github.com/Owl-jun/Yocto_UDS_Simulator)
 - SOME/IP Like Protocol & Gateway System 구현 [리포지토리](https://github.com/BKAELAB/BKEL_SomeIP_GateWay)
 - ROS2 기반 ECU Simulator [리포지토리](https://github.com/Owl-jun/sdv_platform_ws)
 - Bootloader Update Flow 검증 Simulator [리포지토리](https://github.com/Owl-jun/AtlasBootX)
