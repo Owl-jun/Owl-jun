@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 ---
 ## history
 
-### Quest-Global Korea AUTOSAR Automotive S/W Researcher (25.12 ~)
+### WT Technology Korea Field Application Engineer (26.09 ~)
+- Automotive MCU FAE 업무
+    - NXP 제품군 Application Design 지원
+    - NXP MCU 기술지원 (S32K3xx)
+
+### Quest-Global Korea AUTOSAR Automotive S/W Researcher (25.12 ~ 26.08)
 - EV HPCU H/W 검증용 S/W 구현 (25.12 ~ )
     - MCU : Infineon TC387(Ctrl Board) , S32K144(Gate Board)
     - CANoe Test 환경구축
